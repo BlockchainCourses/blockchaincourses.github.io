@@ -2,6 +2,7 @@
 
 - Blockchain
   - [Blockchain Course](https://www.youtube.com/playlist?list=PLsJWgOB5mIMDMyCcZSwSKin2XPJRYI9Ya)
+  - [Blockchain Fundamentals Decal](https://www.youtube.com/playlist?list=PLSONl1AVlZNXVI1dobdDrwv2hhIgemJuA)
 
 - Solidity
   - [Learning Solidity](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
