@@ -5,6 +5,7 @@
 
 - Ethereum
   - [Ethereum Dapp Tutorial](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr)
+  - [Developing Ethereum Smart Contracts for Beginners](https://www.youtube.com/playlist?list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3)
 
 - Hyperledger
   - [Hyperledger - Blockchain Technologies for Business](https://www.youtube.com/playlist?list=PLjsqymUqgpSRXC9ywNIVUUoGXelQa4olO)
