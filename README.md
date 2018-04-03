@@ -18,3 +18,4 @@
   - [Introduction to Hyperledger Fabric Composer](https://www.youtube.com/watch?v=fdFUsrsv5iw)
   - [Hyperledger Composer Development Tutorial](https://www.youtube.com/playlist?list=PLYQSCk-qyTW3zBSNYmcQ62kv89kFaGydI)
   - [Hyperledger Fabric - Chain Code Develop in GO](https://www.youtube.com/playlist?list=PLz3iwtnWFin-yUUgn-zP7KJp0iW0IFas9)
+  - [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
