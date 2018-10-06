@@ -1,6 +1,7 @@
 # blockchaincourses.github.io
 
 - Blockchain
+  - [Blockchain Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)
   - [Blockchain Course](https://www.youtube.com/playlist?list=PLsJWgOB5mIMDMyCcZSwSKin2XPJRYI9Ya)
   - [Blockchain Fundamentals Decal](https://www.youtube.com/playlist?list=PLSONl1AVlZNXVI1dobdDrwv2hhIgemJuA)
 
