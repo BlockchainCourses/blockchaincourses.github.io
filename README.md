@@ -6,6 +6,7 @@
 
 - Solidity
   - [Learning Solidity](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
+  - [Smart Contracts and Truffle 101](https://www.youtube.com/playlist?list=PLH4m2oS2ratezNN4t2apiQDCTLJIZpdLV)
 
 - Ethereum
   - [Ethereum Dapp Tutorial](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr)
